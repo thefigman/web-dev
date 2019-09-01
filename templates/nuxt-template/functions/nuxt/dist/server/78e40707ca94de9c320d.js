@@ -1,0 +1,2 @@
+exports.ids=[2],exports.modules={21:function(t,e,o){"use strict";o.r(e);var n={mounted(){this.test()},methods:{async test(){console.log("HELLO WORLD")}}},r=o(1),component=Object(r.a)(n,function(){var t=this.$createElement;return(this._self._c||t)("div",[this._ssrNode("<h1>HELLO WORLD</h1>")])},[],!1,null,null,"1fe7373e");e.default=component.exports}};
+//# sourceMappingURL=78e40707ca94de9c320d.js.map
